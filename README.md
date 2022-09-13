@@ -17,7 +17,7 @@
     <img align="center" alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
 </div><br>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas atráves da programação
+Sou uma pessoa apaixonada por tecnologia, procurando por conhecimentos em busca de aprimorar minhas habilidades e adquirir mais experiência.
 
 
 
