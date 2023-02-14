@@ -19,7 +19,7 @@
 
 Sou uma pessoa apaixonada por tecnologia, procurando por conhecimentos em busca de aprimorar minhas habilidades e adquirir mais experiência.
 
-
+![snake gif](https://github.com/licask8/licask8/blob/output/github-contribution-grid-snake.svg)
 
 
    
